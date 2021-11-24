@@ -1,0 +1,10 @@
+<div class="content">
+  <h1>WELCOME TO MY RESUME</h1>
+  <div>
+    <button type="button"><span></span>OBJECTIVE</button>
+    <button type="button"><span></span>EDUCATION</button>
+    <button type="button"><span></span>TECHNICAL SKILLS</button><br />
+    <button type="button"><span></span>ACHIEVEMENTS</button>
+    <button type="button"><span></span>PERSONAL DETAILS</button>
+  </div>
+</div>

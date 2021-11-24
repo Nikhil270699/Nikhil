@@ -1,0 +1,32 @@
+<div class="proof">
+        <h2>Marksheet</h2>
+        <div>
+          <button id="button" class="float-left submit-button">
+            <span></span>
+            COLLEGE
+          </button>
+          <script type="text/javascript">
+            document.getElementById("button").onclick = function () {
+              location.href = "";
+            };
+          </script>
+          <button id="button" class="float-left submit-button">
+            <span></span>
+            12th
+          </button>
+          <script type="text/javascript">
+            document.getElementById("button").onclick = function () {
+              location.href = "marksheet.html";
+            };
+          </script>
+          <button id="button" class="float-left submit-button">
+            <span></span>
+            10th
+          </button>
+          <script type="text/javascript">
+            document.getElementById("button").onclick = function () {
+              location.href = "marksheet.html";
+            };
+          </script>
+        </div>
+      </div>
